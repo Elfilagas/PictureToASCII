@@ -1,0 +1,7 @@
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\bin\Debug\PictureToASCII.exe.config
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\bin\Debug\PictureToASCII.exe
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\bin\Debug\PictureToASCII.pdb
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\obj\Debug\PictureToASCII.csproj.AssemblyReference.cache
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\obj\Debug\PictureToASCII.csproj.CoreCompileInputs.cache
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\obj\Debug\PictureToASCII.exe
+C:\Users\kapustin_nn\source\repos\PictureToASCII\PictureToASCII\obj\Debug\PictureToASCII.pdb
